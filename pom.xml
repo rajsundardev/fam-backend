@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fam</groupId>
-	<artifactId>fam-backend</artifactId>
+	<artifactId>family-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fam-backend</name>
 	<description>family application</description>
